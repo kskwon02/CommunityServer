@@ -113,7 +113,7 @@
     <value>자동 저장</value>
   </data>
   <data name="CommentCreate" xml:space="preserve">
-    <value>생성되었습니다</value>
+    <value>생성</value>
   </data>
   <data name="CommentCreateByDocuSign" xml:space="preserve">
     <value>DocuSign으로 만든 파일</value>
@@ -125,7 +125,7 @@
     <value>업로드 되었습니다</value>
   </data>
   <data name="ConvertTo" xml:space="preserve">
-    <value>으로 변환</value>
+    <value>변환</value>
   </data>
   <data name="DashboardUseMoreCollaborationToolsSecondLine" xml:space="preserve">
     <value>코멘트를 추가하고, 특정 사용자에게 주소를 지정</value>

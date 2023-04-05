@@ -1,0 +1,8 @@
+*.dll
+*.log
+packages/
+build/deploy/
+**/obj/
+**/bin/
+**/.bin
+**/node_modules/
